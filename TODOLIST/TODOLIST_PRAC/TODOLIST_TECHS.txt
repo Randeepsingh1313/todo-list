@@ -1,0 +1,7 @@
+TECHOLOGIES USED :
+HTML
+CSS
+Javascript 
+LOCAL STORAGE
+DOM Manipulation
+
